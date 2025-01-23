@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Duc Nguyen
+# Hi there! 👋 I'm Duc
 
 ## 🌐 Professional Summary
 Passionate software developer with a diverse tech stack, committed to solving complex challenges through innovative programming solutions. Dedicated to continuous learning and creating impactful technological solutions.

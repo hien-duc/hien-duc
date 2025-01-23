@@ -12,17 +12,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien-duc&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hienduc&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hien-duc&theme=radical)
 
 ## 🏆 Achievements
-![Profile Views](https://komarev.com/ghpvc/?username=hienduc&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=hien-duc&color=green)
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hienduc&theme=radical)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hien-duc&theme=radical)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)

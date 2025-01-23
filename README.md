@@ -23,11 +23,11 @@ Passionate software developer with a diverse tech stack, committed to solving co
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ## 📊 GitHub Performance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=transparent&bg_color=000000&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien-duc&layout=compact&theme=transparent&bg_color=000000&title_color=58A6FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien-duc&layout=compact&theme=radical)
 
 ## 🔥 Contribution Insights
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hien-duc&theme=dark&hide_border=true&background=000000&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hien-duc&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 Profile Highlights
 ![Profile Views](https://komarev.com/ghpvc/?username=hien-duc&color=blue)

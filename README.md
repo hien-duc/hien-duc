@@ -23,8 +23,8 @@ Passionate software developer with a diverse tech stack, committed to solving co
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ## 📊 GitHub Performance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien-duc&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien-duc&layout=compact&theme=onedark)
 
 ## 🔥 Contribution Insights
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hien-duc&theme=onedark&hide_border=true)](https://git.io/streak-stats)

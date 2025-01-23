@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Duc]
+# Hi there! 👋 I'm Duc
 
 ## 🚀 About Me
 - 💻 Software Developer | Tech Enthusiast

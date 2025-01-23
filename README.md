@@ -28,7 +28,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien-duc&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hien-duc&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hien-duc&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 ![Profile Views](https://komarev.com/ghpvc/?username=hien-duc&color=green)

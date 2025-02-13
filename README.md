@@ -4,23 +4,7 @@
 Passionate software developer with a diverse tech stack, committed to solving complex challenges through innovative programming solutions. Dedicated to continuous learning and creating impactful technological solutions.
 
 ## 🚀 Technical Expertise
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Technologies
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![skills](https://skillicons.dev/icons?i=java,rust,html,css,ts,nodejs,react,mongodb,mysql,supabase,next.js,spring,dotnet,docker,kubernetes,linux,md,git,figma,neovim,vscode&theme=light)
 
 ## 📊 GitHub Performance
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=onedark)
@@ -47,11 +31,6 @@ Passionate software developer with a diverse tech stack, committed to solving co
 - 🚧 [Project Nexus](https://github.com/hien-duc/project-nexus) - Advanced microservices architecture
 - 🧠 [AI Innovator](https://github.com/hien-duc/ai-innovator) - Machine learning exploration
 - 🌐 [Web Dynamics](https://github.com/hien-duc/web-dynamics) - Full-stack web application
-
-## 🎯 Current Learning Path
-- Advanced Kubernetes Orchestration
-- Rust Systems Programming
-- Machine Learning Algorithms
 
 ---
 *Crafted with precision and passion* 🚀

@@ -4,7 +4,7 @@
 Passionate software developer with a diverse tech stack, committed to solving complex challenges through innovative programming solutions. Dedicated to continuous learning and creating impactful technological solutions.
 
 ## 🚀 Technical Expertise
-![skills](https://skillicons.dev/icons?i=java,rust,html,css,ts,nodejs,react,mongodb,mysql,supabase,next.js,spring,dotnet,docker,kubernetes,linux,md,git,figma,neovim,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=java,rust,html,css,ts,nodejs,react,mongodb,mysql,supabase,nextjs,spring,dotnet,docker,kubernetes,linux,git,figma,neovim,vscode&theme=light)
 
 ## 📊 GitHub Performance
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=onedark)

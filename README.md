@@ -24,7 +24,7 @@ Passionate software developer with a diverse tech stack, committed to solving co
 - 🚀 Continuous learning and skill enhancement
 
 ## 🤝 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hien-duc.vercel.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hien-duc.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duc.t.cit21@eiu.edu.vn)
 
 ## 💡 Featured Projects

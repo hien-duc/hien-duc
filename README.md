@@ -24,13 +24,13 @@ Passionate software developer with a diverse tech stack, committed to solving co
 - 🚀 Continuous learning and skill enhancement
 
 ## 🤝 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-website.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hien-duc.vercel.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duc.t.cit21@eiu.edu.vn)
 
 ## 💡 Featured Projects
 - 🚧 [Chinese Chess](https://github.com/hien-duc/xiangqi-chinese-chess-online-platform) - Modern Chinese Chess Platform
 - 🧠 [Spend Wise](https://github.com/hien-duc/spendwise-mobile-financial-trackerr) - Mobile financial tracker
-- 🌐 [Priject Lumine](https://github.com/hien-duc/lumine-library-management-system) - Library management web application
+- 🌐 [Project Lumine](https://github.com/hien-duc/lumine-library-management-system) - Library management web application
 
 ---
 *Crafted with precision and passion* 🚀

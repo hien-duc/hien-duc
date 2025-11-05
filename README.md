@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Duc
+# Hi there! I'm Duc
 
 ## Professional Summary
 Passionate software developer with a diverse tech stack, committed to solving complex challenges through innovative programming solutions. Dedicated to continuous learning and creating impactful technological solutions.
@@ -23,7 +23,7 @@ Passionate software developer with a diverse tech stack, committed to solving co
 - Collaborative problem-solving
 - Continuous learning and skill enhancement
 
-## 🤝 Let's Connect
+## Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hien-duc.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duc.t.cit21@eiu.edu.vn)
 
